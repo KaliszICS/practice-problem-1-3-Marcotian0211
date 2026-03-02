@@ -8,8 +8,7 @@
 class Notes  {
 	public static void main(String args[]) {
 
-		// Documentation/multi line comments
-
+		// Documentation/multi line comment
 		/*
 			This is a multi line comment
 			HEre is a comment
