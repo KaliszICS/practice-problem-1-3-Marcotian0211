@@ -14,11 +14,15 @@ public class PracticeProblemTest {
      // action
      PracticeProblem.q1();
 <<<<<<< HEAD
+<<<<<<< HEAD
 
      // assertion
      assertEquals(" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n\n* * * * *\n*       *\n*       *\n*       *\n* * * * *\n\n* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *\n", bos.toString());
 =======
    
+=======
+       
+>>>>>>> cec6e2e (update practice problem1-3)
      // assertion  
      assertEquals(" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n\n* * * * *\n*       *\n*       *\n*       *\n* * * * *\n\n* * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *\n", bos.toString());
 >>>>>>> e0d8b3d (updat practice problem1-3)
