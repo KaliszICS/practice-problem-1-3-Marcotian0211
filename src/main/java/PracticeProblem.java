@@ -8,22 +8,15 @@ public class PracticeProblem {
 	}
 
 	public static void q1() {
-        System.out.println(" * * * * * * \n* * * * * * \n * * * * * * \n* * * * * * \n * * * * * *\n");
+        System.out.println(" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n");
 		System.out.println("* * * * *\n*       *\n*       *\n*       *\n* * * * *\n");
-		System.out.println("* * * * * * \n *       *\n  *     * \n   *   *  \n    * *\n     *");
+		System.out.print("* * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *\n");
 	}
 
 	public static void q2() {
-
-		  String number;
-		  number="                          '__'\n" + 
-						"\t\t          (oo)\n" + 
-						"\t\t  /========//\n" + 
-						"\t\t / || XX ||\n" + 
-						"\t\t*  ||----||\n" + 
-						"\t\t   VV    VV\n" + 
-						"\t\t   ''    ''";
-		   System.out.println(number);
+     String number;
+		 number="          '__'\n          (oo)\n  /========//\n / || XX ||\n*  ||----||\n   VV    VV\n   ''    ''\n";
+		   System.out.print(number);
 		//Write question 2 code here
 	}
 
