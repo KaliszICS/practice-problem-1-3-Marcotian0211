@@ -14,7 +14,7 @@ public class PracticeProblem {
 	}
 
 	public static void q2() {
-     String number;
+     String number ;
 		 number="          '__'\n          (oo)\n  /========//\n / || XX ||\n*  ||----||\n   VV    VV\n   ''    ''\n";
 		   System.out.print(number);
 		//Write question 2 code here
