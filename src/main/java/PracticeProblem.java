@@ -21,7 +21,7 @@ public class PracticeProblem {
 	}
 
 	public static void q3() {
-         String number2;
+          String number2;
 		 number2="is awful";
 		 String number3;
 		 number3="Fortnite";
